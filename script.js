@@ -97,7 +97,7 @@ if (whatsappForm) {
         const defeito = document.getElementById('defeito').value.trim();
         const descricao = document.getElementById('descricao').value.trim();
         
-        const numeroWhatsApp = "5511948990655";
+        const numeroWhatsApp = "5511951494580";
         
         let message = `Olá, gostaria de solicitar um Orçamento Técnico na Gusta Tech:%0A%0A` +
                        `*Cliente:* ${encodeURIComponent(nome)}%0A` +
